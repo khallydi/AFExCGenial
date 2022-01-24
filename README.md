@@ -5,6 +5,13 @@ d'automatiser les tâches de machine learning, de tester plusieurs algorithmes e
 performant : https://auto.gluon.ai/stable/index.html
 ## Installation
 Certains packages doivent être installés avant l'utilisation de la librairie AutoGluon. Vous pouvez directement le 
-faire depuis le notebook. ```bash !pip install -U pip !pip install -U setuptools wheel !pip install -U 
-"mxnet<2.0.0" !pip3 install --pre autogluon !pip3 install seaborn ```
+faire depuis le notebook. 
+
+```bash
+!pip install -U pip
+!pip install -U setuptools wheel
+!pip install -U "mxnet<2.0.0"
+!pip3 install --pre autogluon
+!pip3 install seaborn
+```
     
